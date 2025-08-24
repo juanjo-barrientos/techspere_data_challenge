@@ -1,0 +1,9 @@
+class,precision,recall,f1-score,support
+Cardiovascular,0.0,0.0,0.0,0.0
+Neurological,0.0,0.0,0.0,0.0
+Hepatorenal,0.0,0.0,0.0,0.0
+Oncological,0.0,0.0,0.0,0.0
+micro avg,0.0,0.0,0.0,0.0
+macro avg,0.0,0.0,0.0,0.0
+weighted avg,0.0,0.0,0.0,0.0
+samples avg,0.0,0.0,0.0,0.0
