@@ -1,0 +1,82 @@
+[
+    {
+        "class":"Cardiovascular",
+        "metric":"True Negative",
+        "value":1819
+    },
+    {
+        "class":"Cardiovascular",
+        "metric":"False Positive",
+        "value":1746
+    },
+    {
+        "class":"Cardiovascular",
+        "metric":"False Negative",
+        "value":0
+    },
+    {
+        "class":"Cardiovascular",
+        "metric":"True Positive",
+        "value":0
+    },
+    {
+        "class":"Neurological",
+        "metric":"True Negative",
+        "value":1404
+    },
+    {
+        "class":"Neurological",
+        "metric":"False Positive",
+        "value":2161
+    },
+    {
+        "class":"Neurological",
+        "metric":"False Negative",
+        "value":0
+    },
+    {
+        "class":"Neurological",
+        "metric":"True Positive",
+        "value":0
+    },
+    {
+        "class":"Hepatorenal",
+        "metric":"True Negative",
+        "value":1868
+    },
+    {
+        "class":"Hepatorenal",
+        "metric":"False Positive",
+        "value":1697
+    },
+    {
+        "class":"Hepatorenal",
+        "metric":"False Negative",
+        "value":0
+    },
+    {
+        "class":"Hepatorenal",
+        "metric":"True Positive",
+        "value":0
+    },
+    {
+        "class":"Oncological",
+        "metric":"True Negative",
+        "value":2774
+    },
+    {
+        "class":"Oncological",
+        "metric":"False Positive",
+        "value":791
+    },
+    {
+        "class":"Oncological",
+        "metric":"False Negative",
+        "value":0
+    },
+    {
+        "class":"Oncological",
+        "metric":"True Positive",
+        "value":0
+    }
+]
