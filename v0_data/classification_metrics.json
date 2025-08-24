@@ -1,0 +1,58 @@
+[
+    {
+        "class":"Cardiovascular",
+        "precision":0.0,
+        "recall":0.0,
+        "f1-score":0.0,
+        "support":0.0
+    },
+    {
+        "class":"Neurological",
+        "precision":0.0,
+        "recall":0.0,
+        "f1-score":0.0,
+        "support":0.0
+    },
+    {
+        "class":"Hepatorenal",
+        "precision":0.0,
+        "recall":0.0,
+        "f1-score":0.0,
+        "support":0.0
+    },
+    {
+        "class":"Oncological",
+        "precision":0.0,
+        "recall":0.0,
+        "f1-score":0.0,
+        "support":0.0
+    },
+    {
+        "class":"micro avg",
+        "precision":0.0,
+        "recall":0.0,
+        "f1-score":0.0,
+        "support":0.0
+    },
+    {
+        "class":"macro avg",
+        "precision":0.0,
+        "recall":0.0,
+        "f1-score":0.0,
+        "support":0.0
+    },
+    {
+        "class":"weighted avg",
+        "precision":0.0,
+        "recall":0.0,
+        "f1-score":0.0,
+        "support":0.0
+    },
+    {
+        "class":"samples avg",
+        "precision":0.0,
+        "recall":0.0,
+        "f1-score":0.0,
+        "support":0.0
+    }
+]

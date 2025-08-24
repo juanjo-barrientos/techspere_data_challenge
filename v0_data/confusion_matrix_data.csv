@@ -1,0 +1,17 @@
+class,metric,value
+Cardiovascular,True Negative,1819
+Cardiovascular,False Positive,1746
+Cardiovascular,False Negative,0
+Cardiovascular,True Positive,0
+Neurological,True Negative,1404
+Neurological,False Positive,2161
+Neurological,False Negative,0
+Neurological,True Positive,0
+Hepatorenal,True Negative,1868
+Hepatorenal,False Positive,1697
+Hepatorenal,False Negative,0
+Hepatorenal,True Positive,0
+Oncological,True Negative,2774
+Oncological,False Positive,791
+Oncological,False Negative,0
+Oncological,True Positive,0
