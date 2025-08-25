@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException, UploadFile, File
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
 from typing import List, Any
-from src.model_loader import ModelService
+from api.model_loader import ModelService
 import pandas as pd
 import io
 
